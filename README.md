@@ -8,7 +8,6 @@ It contains 3 HTML file (index,contacts,input) and single css file(style).
 
 One can integrate the style and add some feature and it may be open for public by featuring next and connecting database.
 
-![Interface of first page1](html-personal-website/css/Screenshot (9).png?row=true)
+[Interface](Screenshot (9).png)
 
 
-![Interface of first page1](css/Screenshot (10).png?row=true)
