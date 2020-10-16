@@ -6,6 +6,9 @@ It is a general purpose page to showcase personal detail on web.
 
 It contains 3 HTML file (index,contacts,input) and single css file(style).
 
-One can integrate the style and add some feature and it may be open for public by featuring next and connecting databace.
+One can integrate the style and add some feature and it may be open for public by featuring next and connecting database.
 
-[Interface of first page](css/) 
+[Interface of first page1](css/Screenshot (9).png)
+
+
+[Interface of first page1](css/Screenshot (10).png)
